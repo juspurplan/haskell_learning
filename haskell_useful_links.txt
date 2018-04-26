@@ -1,0 +1,19 @@
+
+// Learning Haskell
+http://learnyouahaskell.com
+http://learn.hfm.io/
+
+
+// Haskell 99 problems
+https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems
+
+
+// Haskell API documentation
+http://www.haskell.org/ghc/docs/latest/html/libraries/
+
+// Haskell API search engine
+https://www.haskell.org/hoogle/
+
+// various web books on various programming languages from C/C++, C#, JS, Haskell VBA.
+// also includes free books on frameworks like AngularJS, ReactJS etc.
+http://goalkicker.com/
