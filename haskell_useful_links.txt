@@ -19,5 +19,5 @@ https://www.haskell.org/hoogle/
 http://goalkicker.com/
 
 
-// lambda calculus reduction quick intro
+// lambda calculus reduction quick intro -- by rp.beltran in an answer on stack overflow
 https://stackoverflow.com/questions/34140819/lambda-calculus-reduction-steps
