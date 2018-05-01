@@ -17,3 +17,7 @@ https://www.haskell.org/hoogle/
 // various web books on various programming languages from C/C++, C#, JS, Haskell VBA.
 // also includes free books on frameworks like AngularJS, ReactJS etc.
 http://goalkicker.com/
+
+
+// lambda calculus reduction quick intro
+https://stackoverflow.com/questions/34140819/lambda-calculus-reduction-steps
