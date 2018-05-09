@@ -21,3 +21,6 @@ http://goalkicker.com/
 
 // lambda calculus reduction quick intro -- by rp.beltran in an answer on stack overflow
 https://stackoverflow.com/questions/34140819/lambda-calculus-reduction-steps
+
+// current status of the Haskell ecosystem (libraries/packages, how mature is it)
+https://github.com/Gabriel439/post-rfc/blob/master/sotu.md
